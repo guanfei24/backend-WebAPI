@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{CCEE2BD2-C4F0-4154-A866-3BDF1A7D2D46}|Default">
-  <MonoDevelop.Ide.ItemProperties.backend-WebAPI FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.backend-WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="39" Column="5" />
+      <File FileName="LocalDatabase/JsonOperator.cs" Line="45" Column="54" />
+      <File FileName="LocalDatabase/EmptyJSONFile.json" Line="14" Column="38" />
+      <File FileName="Student.cs" Line="12" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="backend-WebAPI" expanded="True" selected="True">
+            <Node name="backend-WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="LocalDatabase" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,4 +1,6 @@
 ﻿using System.Xml.Linq;
+using backend_WebAPI;
+using backend_WebAPI.LocalDatabase;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,6 +30,19 @@ List<object> stus = new();
 );
     return Results.Ok(stus);
 });
+
+app.MapGet("Search", (int id) =>
+{
+    List<Student> stus = new List<Student>();
+    JsonOperator json = new JsonOperator();
+    stus = JsonOperator.ReadJsonFileToList("LocalDatabase/Student.json");
+    
+    return Results.Ok(stus.Find(
+        delegate (Student student) { return student.id == id; }
+        )
+
+        );
+});
 //app.UseHttpsRedirection();
 
 //app.UseAuthorization();
@@ -35,4 +50,3 @@ List<object> stus = new();
 //app.MapControllers();
 
 app.Run();
-

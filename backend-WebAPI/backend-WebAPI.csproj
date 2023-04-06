@@ -9,6 +9,13 @@
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="LocalDatabase\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="LocalDatabase\" />
+  </ItemGroup>
 </Project>

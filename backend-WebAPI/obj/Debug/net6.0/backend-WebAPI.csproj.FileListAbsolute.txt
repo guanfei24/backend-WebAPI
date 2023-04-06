@@ -1,11 +1,9 @@
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/appsettings.Development.json
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/appsettings.json
+/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/LocalDatabase/Student.json
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/backend-WebAPI
-/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/backend-WebAPI.deps.json
-/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/backend-WebAPI.runtimeconfig.json
-/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/backend-WebAPI.dll
-/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/backend-WebAPI.pdb
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -28,5 +26,9 @@
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/obj/Debug/net6.0/backend-WebAPI.dll
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/obj/Debug/net6.0/refint/backend-WebAPI.dll
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/obj/Debug/net6.0/backend-WebAPI.pdb
+/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/backend-WebAPI.deps.json
+/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/backend-WebAPI.runtimeconfig.json
+/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/backend-WebAPI.dll
+/Users/chi/Projects/backend-WebAPI/backend-WebAPI/bin/Debug/net6.0/backend-WebAPI.pdb
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/obj/Debug/net6.0/backend-WebAPI.genruntimeconfig.cache
 /Users/chi/Projects/backend-WebAPI/backend-WebAPI/obj/Debug/net6.0/ref/backend-WebAPI.dll

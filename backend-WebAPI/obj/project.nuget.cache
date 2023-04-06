@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WOkMDTpH/87GV4r2I37CnKPOyk3VpF6aF0vyyp11TlwV7XyMn5qFlgm+QuwLDfjYcmE7Cl3xzPxDJ44f53qeGg==",
+  "dgSpecHash": "S+fMGK92OFAWX8qDQIJFDZPDjkIk1kN/dKaUtR4dDfBe5LvoKMKT/o0GW4g8vsiSoMpBka08uvGdQwv9lkcLIw==",
   "success": true,
   "projectFilePath": "/Users/chi/Projects/backend-WebAPI/backend-WebAPI/backend-WebAPI.csproj",
   "expectedPackageFiles": [
     "/Users/chi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/chi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/chi/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/chi/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/chi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/Users/chi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
